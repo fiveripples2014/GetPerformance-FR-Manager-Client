@@ -1,0 +1,9 @@
+C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\bin\Debug\GetPerformance.exe
+C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\bin\Debug\GetPerformance.pdb
+C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\obj\x86\Debug\GetPerformance.exe
+C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\obj\x86\Debug\GetPerformance.pdb
+C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\obj\x86\Debug\GetPerformance.exe
+C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\obj\x86\Debug\GetPerformance.pdb
+C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\bin\Debug\GetPerformance.exe
+C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\bin\Debug\GetPerformance.pdb
+C:\Users\hasitha\Documents\Visual Studio 2010\Projects\GetPerformance\GetPerformance\obj\x86\Debug\GetPerformance.csprojResolveAssemblyReference.cache

@@ -25,7 +25,7 @@
 	<li>Note the time is in UTC for the remote usageand time convertions</li>
 
 	<li>Uninstall the service, use the command InstallUtil.exe /u “FRManagerClient.exe”</li>
-</ui>
+</ul>
 
 
 <h3>Problems</h3>

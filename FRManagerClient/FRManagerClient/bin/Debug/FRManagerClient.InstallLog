@@ -1,0 +1,416 @@
+﻿Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Service FRManagerClientService has been successfully installed.
+Creating EventLog source FRManagerClientService in log Application...
+Committing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.
+Installing assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Installing service FRManagerClientService...
+Creating EventLog source FRManagerClientService in log Application...
+Rolling back assembly 'C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.InstallLog
+   assemblypath = C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+Restoring event log to previous state for source FRManagerClientService.

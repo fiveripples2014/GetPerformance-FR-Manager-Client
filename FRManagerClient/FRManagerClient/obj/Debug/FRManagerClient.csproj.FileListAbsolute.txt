@@ -1,0 +1,10 @@
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe.config
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\obj\Debug\FRManagerClient.csprojResolveAssemblyReference.cache
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\obj\Debug\FRManagerClient.ProjectInstaller.resources
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\obj\Debug\FRManagerClient.csproj.GenerateResource.Cache
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.exe
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\FRManagerClient.pdb
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\obj\Debug\FRManagerClient.exe
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\obj\Debug\FRManagerClient.pdb
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hasitha\Documents\Visual Studio 2013\Projects\FRManagerClient\FRManagerClient\bin\Debug\Newtonsoft.Json.xml

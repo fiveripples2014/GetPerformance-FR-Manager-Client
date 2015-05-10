@@ -1,9 +1,0 @@
-C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\bin\Release\GetPerformance.exe
-C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\bin\Release\GetPerformance.pdb
-C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\obj\x86\Release\GetPerformance.exe
-C:\Users\hasitha\AppData\Local\Temporary Projects\GetPerformance\obj\x86\Release\GetPerformance.pdb
-C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\bin\Release\GetPerformance.exe
-C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\bin\Release\GetPerformance.pdb
-C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\obj\x86\Release\GetPerformance.exe
-C:\Users\hasitha\documents\visual studio 2010\Projects\GetPerformance\GetPerformance\obj\x86\Release\GetPerformance.pdb
-C:\Users\hasitha\Documents\Visual Studio 2010\Projects\GetPerformance\GetPerformance\obj\x86\Release\GetPerformance.csprojResolveAssemblyReference.cache

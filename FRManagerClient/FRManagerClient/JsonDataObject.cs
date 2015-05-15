@@ -1,7 +1,9 @@
 ﻿using Newtonsoft.Json.Linq;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
+using System.Management;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,11 +13,12 @@ namespace FRManagerClient
     {
         public DateTime utc { get; set; }
         public string hostName { get; set; }
-        public string loggedInUserName { get; set; }
+        public Object loggedInUserName { get; set; }
         public string macAddress { get; set; }
         public string ipAddress { get; set; }
         public SystemUpTime upTime { get; set; }
-        //public LinkedList<ManagementQuery> disk { get; set; }
+        public Dictionary<string, Dictionary<string, Object>> disk { get; set; }
+        public String memory; 
         public int percentCpuLoad { get; set; }
         public int threads { get; set; }
         public int processes { get; set; }
@@ -27,20 +30,22 @@ namespace FRManagerClient
         public double avgDiskSecsTransfer { get; set; }
         public int avgDiskKiloBytesTransfer { get; set; }
         public double avgDiskQueueLength { get; set; }
+        public string runningApplications { get; set; }
     }
 
     public class SystemUpTime
     {
-        public int TotalDays { get; set; }
-        public int Hours { get; set; }
-        public int Minutes { get; set; }
-        public int Seconds { get; set; }
+        public int totalDays { get; set; }
+        public int hours { get; set; }
+        public int minutes { get; set; }
+        public int seconds { get; set; }
     }
    
-    /*public class ManagementQuery{
-        public string name { get; set; }
-        public string propertyName { get; set; }
-        public string value { get; set; }
-    }*/
+    public class Partition
+    {
+        public string partitionName;
+        public Object sizeInGB;
+        public Object freeSpaceInGB;
+    }
 }
 

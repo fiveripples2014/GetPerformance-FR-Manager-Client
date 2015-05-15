@@ -14,6 +14,8 @@ using System.Speech.Synthesis;
 using System.Threading;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+using System.Runtime.InteropServices;
+using System.Collections;
 
 namespace FRManagerClient
 {
@@ -27,7 +29,7 @@ namespace FRManagerClient
             data = new JsonDataObject();
             Identify();
             Query();
-            Counters();
+            Counters();            
             string json = JsonConvert.SerializeObject(data);
             WriteToJsonFile(json);           
         }
@@ -43,7 +45,8 @@ namespace FRManagerClient
             data.hostName = Dns.GetHostName();
 
             //Get the current logged in user of the system
-            data.loggedInUserName = Environment.UserName;
+            System.Diagnostics.Process[] objArrProcess = System.Diagnostics.Process.GetProcessesByName("FRManagerClient");
+            data.loggedInUserName = objArrProcess[0].StartInfo.EnvironmentVariables["USERNAME"]; 
 
             //Get the Mac Address
             string macAddresses = string.Empty;
@@ -122,10 +125,10 @@ namespace FRManagerClient
             TimeSpan t = TimeSpan.FromSeconds(systemUpTime.NextValue());
             data.upTime = new SystemUpTime
             {
-                TotalDays = (int)t.TotalDays,
-                Hours = (int)t.Hours,
-                Minutes = (int)t.Minutes,
-                Seconds = (int)t.Seconds
+                totalDays = (int)t.TotalDays,
+                hours = (int)t.Hours,
+                minutes = (int)t.Minutes,
+                seconds = (int)t.Seconds
             };
             #endregion
 
@@ -215,9 +218,12 @@ namespace FRManagerClient
         #region Query() - Management Object Query
         public static void Query()
         {
-            // Get the Logical Disk Size and free space
-            //data.disk = selectQuery("Win32_LogicalDisk", "Size"); 
-            
+            // Get the Logical Disk size and free space in GB
+            String[] properties = {"Size", "FreeSpace"};
+            data.disk = selectQuery("Win32_LogicalDisk", "Size");
+
+            //Get the Total Physical Memory size in GB
+            //data.memory = selectQuery("Win32_LogicalDisk", properties);
         }        
         #endregion
 
@@ -246,28 +252,39 @@ namespace FRManagerClient
         }
         #endregion
 
-       /* public static LinkedList<ManagementQuery> selectQuery(String query, String property)
+        public static Dictionary<string, Dictionary<string, Object>> selectQuery(string query, string property)
         #region Function when only the query and property is given
         {
-            LinkedList<ManagementQuery> result = new LinkedList<ManagementQuery>();
+
+            Dictionary<string, Dictionary<string, Object>> result = new Dictionary<string, Dictionary<string, Object>>();
             //Create a Management Object Searcher object to get the information from Windows Management Instrumentation(WMI)
             ManagementObjectSearcher searchQuery = new ManagementObjectSearcher("SELECT * FROM " + query);
+            //ManagementObjectCollection m = searchQuery.Get();
+            //Partition[] p = new Partition[m.Count];
+            //int i = 0;
 
             //Get Management Object one by one
             foreach (ManagementObject mngObj in searchQuery.Get())
             {
+                //Value of the property
+                //Partition obj = new Partition();
+                //obj.partitionName = mngObj["Name"].ToString();
+                //Object o = mngObj.Properties[p1].Value;
+                //obj.sizeInGB = Convert.ToInt32(o);
+                //obj.freeSpaceInGB = mngObj.Properties[p2].Value;
+                //p[i++] = obj;
+                Dictionary<string, Object> objProperty = new Dictionary<string, Object>();
+                objProperty.Add(property, mngObj.Properties[property].Value);
+
                 //Name of the current Management Object
-                ManagementQuery x = new ManagementQuery();
-                x.name = mngObj["Name"].ToString();
-                x.propertyName = property;
-                x.value = mngObj.Properties[property].Value.ToString();
-                result.AddLast(x); 
+                result.Add(mngObj["Name"].ToString(),objProperty);                
             }
+
             //Release the resources consumed by the Management Object Searcher object
             searchQuery.Dispose();
             return result;
         }
-        #endregion  */ 
+        #endregion   
 
         public static void WriteToJsonFile(String Message)
         {
@@ -283,5 +300,7 @@ namespace FRManagerClient
             { }
         }
     }
+
+   
 }
 
